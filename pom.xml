@@ -9,6 +9,7 @@
 
 	<modules>
 		<module>hackerrank-algorithms</module>
+		<module>hackerrank-contests</module>
 	</modules>
 
 	<properties>
